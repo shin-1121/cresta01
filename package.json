@@ -5,6 +5,9 @@
   "repository": "git@github.com:shin-1121/cresta01.git",
   "author": "shin-1121 <73818848+shin-1121@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "scss": "sass src/scss:assets/css -s expanded --no-source-map -w"
+  },
   "devDependencies": {
     "sass": "^1.51.0"
   }

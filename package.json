@@ -1,0 +1,11 @@
+{
+  "name": "cresta01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shin-1121/cresta01.git",
+  "author": "shin-1121 <73818848+shin-1121@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
